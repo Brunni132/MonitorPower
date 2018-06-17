@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MonitorPower", "MonitorPower\MonitorPower.vcxproj", "{48063DDE-3325-4B07-A6F7-339EA151C0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Debug|Win32.Build.0 = Debug|Win32
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Debug|x64.ActiveCfg = Debug|x64
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Debug|x64.Build.0 = Debug|x64
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Release|Win32.ActiveCfg = Release|Win32
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Release|Win32.Build.0 = Release|Win32
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Release|x64.ActiveCfg = Release|x64
+		{48063DDE-3325-4B07-A6F7-339EA151C0FA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827AE850-AA28-4C48-A2D8-43A0F156B9DF}
+	EndGlobalSection
+EndGlobal
