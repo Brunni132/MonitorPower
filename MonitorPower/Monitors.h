@@ -11,6 +11,7 @@ public:
 	virtual ~Monitors();
 
 	void SetPower(Power nPower);
+	int monitorCount() const;
 
 private:
 	static BOOL CALLBACK MonitorEnumProc(HMONITOR hMonitor, HDC hdcMonitor,

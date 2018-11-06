@@ -57,3 +57,7 @@ void Monitors::SetPower(Power nPower)
 		SetVCPFeature(hMonitor, PowerMode, nPower);
 	}
 }
+
+int Monitors::monitorCount() const {
+	return m_oMonitors.size();
+}
